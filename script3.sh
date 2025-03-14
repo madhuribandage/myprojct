@@ -1,0 +1,3 @@
+echo "sai"
+date
+sai
